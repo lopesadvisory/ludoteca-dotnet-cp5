@@ -1,0 +1,21 @@
+## Build
+bin/
+obj/
+[Dd]ebug/
+[Rr]elease/
+
+## Testes
+TestResults/
+*.trx
+coverage*.xml
+
+## IDE
+.vs/
+.vscode/
+.idea/
+*.user
+*.suo
+
+## Sistema
+Thumbs.db
+.DS_Store
